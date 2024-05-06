@@ -1,6 +1,6 @@
-import { useContext, useEffect, useState } from "react";
-import Checkbox from "../../components/common/buttons/checkbox";
-import LoadingDiv from "../../components/common/templates/loading-div";
+import { useContext, useState } from "react";
+// import Checkbox from "../../components/common/buttons/checkbox";
+// import LoadingDiv from "../../components/common/templates/loading-div";
 import styles from "./LoginPage.module.css";
 import StandarTextinput from "../../components/common/textinputs/standard-ti";
 import StandardBtn from "../../components/common/buttons/standard-btn";
